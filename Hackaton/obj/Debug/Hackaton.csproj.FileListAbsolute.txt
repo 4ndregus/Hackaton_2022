@@ -1,0 +1,8 @@
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\bin\Debug\Hackaton.exe.config
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\bin\Debug\Hackaton.exe
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\bin\Debug\Hackaton.pdb
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\obj\Debug\Hackaton.csproj.AssemblyReference.cache
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\obj\Debug\Hackaton.csproj.SuggestedBindingRedirects.cache
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\obj\Debug\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\obj\Debug\Hackaton.exe
+C:\Users\agust\OneDrive - Universidad Rafael Landivar\URL\6) Segundo Ciclo 2022\Proyectos\Hackaton_2022\Hackaton\obj\Debug\Hackaton.pdb

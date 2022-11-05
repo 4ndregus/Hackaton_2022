@@ -123,38 +123,31 @@ namespace Hackaton
 
 		}
 
-		
-	}
-
-
-
-
-
-
-	/*class Problema2
-	{
-		class Problema2{
-
-		}
-
-		public void vocales()
+		public void main()
 		{
-			char[] cadena = new char[]();
-			Console.WriteLine("Ingrese una cadena");
-			cadena = Console.ReadLine();
-			int cont = 0;
-			for (int i = 0; i < cadena.length; i++)
-			{
-				char cad = cadena[i];
-				if (cad == "a" || cad == "e" || cad == "i" cade == "o" || cad == "u"){
-				cont++;
-			}
 
-			}
-			Console.WriteLine(cont);
+			int numAmigos, numPorciones;
+			Console.Write("Ingrese la cantidad de amigos: ");
+			numAmigos = int.Parse(Console.ReadLine());
+
+			Console.Write("Ingrese la cantidad de porciones que quiere cada uno: ");
+			numPorciones = int.Parse(Console.ReadLine());
+			int cant = cantPasteles(numAmigos, numPorciones);
+
+			Console.WriteLine("La cantidad mínima de pasteles es de: " + cant);
+			Console.ReadKey();
 		}
-		
-    }*/
+
+		public int cantPasteles(int cantAmigos, int cantPorciones)
+		{
+			int totalP = cantAmigos * cantPorciones;
+
+			double r = totalP / 4;
+
+			int cantPast = Convert.ToInt32(Math.Ceiling(r));
+			return cantPast;
+		}
+	}
 
 	internal class Program
     {
@@ -188,7 +181,8 @@ namespace Hackaton
 				}
 				else if (keyMenu == 4)//Problema 4
 				{
-
+					Problema4 p4 = new Problema4();
+					p4.main();
 				}
 				else if (keyMenu == 5)//Salir
 				{
