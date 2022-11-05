@@ -59,7 +59,72 @@ namespace Hackaton
 	}
 
 
+	class Problema2
+	{
+		public Problema2()
+		{
 
+		}
+
+		public void vocales()
+		{
+
+			string cadena;
+			Console.Write("Ingrese una cadena: ");
+			cadena = Console.ReadLine().ToLower();
+			int cont = 0;
+			for (int i = 0; i < cadena.Length; i++)
+			{
+				char cad = cadena[i];
+				if (cad == 'a' || cad == 'e' || cad == 'i' || cad == 'o' || cad == 'u')
+				{
+					cont++;
+				}
+
+			}
+			Console.WriteLine(cont);
+			Console.ReadKey();
+		}
+
+
+	}
+
+	class Problema3
+	{
+		public Problema3()
+		{
+
+		}
+
+		public void main()
+		{
+
+			int num;
+			Console.Write("Ingrese un numero: ");
+			num = int.Parse(Console.ReadLine());
+
+			factorial(num);
+		}
+
+		public int factorial(int n)
+		{
+			if (n == 1)
+			{
+				return 1;
+			}
+			return n * factorial(n - 1);
+		}
+	}
+
+	class Problema4
+	{
+		public Problema4()
+		{
+
+		}
+
+		
+	}
 
 
 
@@ -91,7 +156,7 @@ namespace Hackaton
 		
     }*/
 
-    internal class Program
+	internal class Program
     {
 
 		
