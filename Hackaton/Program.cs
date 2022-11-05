@@ -132,19 +132,19 @@ namespace Hackaton
 
 			Console.Write("Ingrese la cantidad de porciones que quiere cada uno: ");
 			numPorciones = int.Parse(Console.ReadLine());
-			int cant = cantPasteles(numAmigos, numPorciones);
+			double cant = cantPasteles(numAmigos, numPorciones);
 
 			Console.WriteLine("La cantidad mínima de pasteles es de: " + cant);
 			Console.ReadKey();
 		}
 
-		public int cantPasteles(int cantAmigos, int cantPorciones)
+		public double cantPasteles(int cantAmigos, int cantPorciones)
 		{
-			int totalP = cantAmigos * cantPorciones;
+			double totalP = cantAmigos * cantPorciones;
 
 			double r = totalP / 4;
 
-			int cantPast = Convert.ToInt32(Math.Ceiling(r));
+			double cantPast = Math.Round(r);
 			return cantPast;
 		}
 	}
