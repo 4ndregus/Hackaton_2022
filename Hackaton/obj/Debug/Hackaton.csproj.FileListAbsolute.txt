@@ -1,0 +1,8 @@
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.exe.config
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.exe
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\bin\Debug\Hackaton.pdb
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.AssemblyReference.cache
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.exe
+C:\Users\Roberto Moya\Desktop\Hackaton\Hackaton\obj\Debug\Hackaton.pdb
